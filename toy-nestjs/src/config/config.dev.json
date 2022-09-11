@@ -1,0 +1,12 @@
+{
+	"database": {
+
+	},
+	"jwt": {
+		"expireTime": 500,
+		"algorithm": "HS256"
+	},
+	"server": {
+		"port": 3000
+	}
+}

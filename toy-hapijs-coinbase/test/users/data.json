@@ -1,0 +1,26 @@
+[
+	{
+		"userID": "13ce191c-08bf-4f8c-9e7f-1a312a1b8fe5",
+		"username": "ptquyen",
+		"password": "abc123",
+		"email": "ptquyen@test.com"
+	},
+	{
+		"userID": "591a367f-6c64-428c-9684-a73e898fbdf2",
+		"username": "ptquyen11",
+		"password": "abc12311",
+		"email": "ptquyen11@test.com"
+	},
+	{
+		"userID": "e4086c65-5b67-4c2a-a4a8-be81ac127a8e",
+		"username": "ptquyen22",
+		"password": "abc12322",
+		"email": "ptquyen22@test.com"
+	},
+	{
+		"userID": "c12b1bce-8433-466f-b263-50cb46958bb9",
+		"username": "ptquyen33",
+		"password": "abc12333",
+		"email": "ptquyen33@test.com"
+	}
+]

@@ -1,0 +1,16 @@
+{
+	"server": {
+		"port": 3000
+	},
+	"jwt": {
+		"jwtExpireTime": 3600,
+		"jwtSecretKey": "app-secret-key",
+		"algorithm": "HS256"
+	},
+	"database": {
+		"core-system": {
+			"connection": "mongodb://mongodb:27017/core-system"
+		}
+	},
+	"plugins": [ "jwt-auth" ]
+}

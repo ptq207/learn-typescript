@@ -1,0 +1,29 @@
+[
+	{
+		"code": "SOL",
+		"tokenName": "Solana",
+		"price": 2.2,
+		"marketCap": 48392949,
+		"vol": 1039020000,
+		"issueDate": "Tue Sep 28 2021 20:32:57 GMT+0700",
+		"introduction": "Scalable blockchain, end-users friendly app"
+	},
+	{
+		"code": "AVAX",
+		"tokenName": "Avalanche",
+		"price": 55.0,
+		"marketCap": 16392039,
+		"vol": 830888400,
+		"issueDate": "Tue Sep 28 2021 20:32:57 GMT+0700",
+		"introduction": "Blazingly Fast, Low Cost, & Eco-Friendly"
+	},
+	{
+		"code": "LINK",
+		"tokenName": "Chainlink",
+		"price": 28.57,
+		"marketCap": 12494040,
+		"vol": 993339589,
+		"issueDate": "Tue Sep 28 2021 20:32:57 GMT+0700",
+		"introduction": "Blockchain abstraction layer that enables universally connected smart contracts"
+	}
+]

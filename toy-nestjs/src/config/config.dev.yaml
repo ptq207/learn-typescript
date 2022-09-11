@@ -1,0 +1,17 @@
+app:
+  port: 3000
+db:
+  main_app:
+    type: mysql
+    host: localhost
+    port: 3306
+    username: root
+    password: abc@123
+    database: social-app
+    entities:
+    - "src/**/**.entity{.ts, .js}"
+jwt:
+  expireTime: 500
+  algorithm: "HS256"
+  secretKey: "MyApp_SecretKey"
+  

@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist",
+		"target": "es6",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"resolveJsonModule": true,
+		"typeRoots": [
+			"node_modules/@types"
+		]
+	},
+	"include": [
+		"src/**/*.ts",
+		"src/**/*.json",
+		"test/**/*.ts",
+		"test/**/*.json"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
